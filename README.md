@@ -13,11 +13,21 @@ o cliente quer saber quantos pontos faz com uma compra de 120 reais, solicita o 
 
 ## Resultado do teste
 
-cole aqui a saida apresentada ao executar o cliente
+
+PS C:\Users\aluno\Desktop> python cliente.py
+Pontoss: 240
+PS C:\Users\aluno\Desktop>
 
 ## explicação
 
-1. Em qual programa o calculo foi executado?
-2. qual programa iniciou solicitação?
-3. o que aconteceria com o cliente se o servidor estivesse desligado?
-  
+1- Em qual programa o cálculo foi executado?
+
+R: No servidor (servidor.py), que é onde fica a função que faz a conta.
+
+2 -Qual programa iniciou a solicitação?
+
+R: O cliente (cliente.py) foi quem pediu o cálculo.
+
+3- O que aconteceria se o servidor estivesse desligado?
+
+R: O cliente não conseguiria se conectar e daria um erro de conexão.
